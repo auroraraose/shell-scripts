@@ -3,7 +3,7 @@
 
 output_directory="sorted_data"
 
-input_file="$output_directory/profile.txt"
+input_file="$output_directory/profile.csv"
 
 output_file="$output_directory/age.txt"
 
